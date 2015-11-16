@@ -1,15 +1,24 @@
 ---
-title: Getting Started on The Grid
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
 description: Click the pencil icon in the bottom left to read more...
+datePublished: '2015-11-16T16:28:04.332Z'
+dateModified: '2015-11-16T16:27:51.884Z'
+title: Getting Started on The Grid
 author: []
-datePublished: '2015-11-16T16:25:09.250Z'
-dateModified: '2015-10-28T16:45:50.309Z'
 sourcePath: _posts/2015-11-16-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
@@ -139,3 +148,4 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Email us at feedback@thegrid.io
 * Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- 
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a9045ed-0a71-4969-b622-867e9c002c13.jpg)
