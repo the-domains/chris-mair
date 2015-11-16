@@ -1,0 +1,23 @@
+name: Chris Mair
+favicon: null
+layout_spectrum: 0.8789373501203954
+typography_spectrum: 0.5397875625640154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.023565369425341487
+  lightness: 0.3059925213456154
+  saturation: 0.08103241957724094
+  rhythmicContrast: 0.87325170612894
+purpose: []
